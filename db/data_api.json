@@ -15,6 +15,14 @@
           "result.8.url"
         ]
       }
+    },
+    "yt": {
+      "api_0": {
+        "web": "https://api.kaicloud.my.id/downloader/youtube?url=",
+        "subject": [
+          "result.video_hd"
+        ]
+      }
     }
   }
 }
