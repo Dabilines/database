@@ -14,6 +14,13 @@
           "result.7.url",
           "result.8.url"
         ]
+      },
+      "api_1": {
+        "web": "https://api-faa.my.id/faa/fbdownload?url=",
+        "subject": [
+          "result.media.video_hd",
+          "result.media.video_sd"
+        ]
       }
     },
     "yt": {
@@ -21,6 +28,12 @@
         "web": "https://api.kaicloud.my.id/downloader/youtube?url=",
         "subject": [
           "result.video_hd"
+        ]
+      },
+      "api_1": {
+        "web": "https://api-faa.my.id/faa/ytmp4?url=",
+        "subject": [
+          "download_url"
         ]
       }
     }
