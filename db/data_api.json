@@ -33,7 +33,7 @@
       "api_1": {
         "web": "https://api-faa.my.id/faa/ytmp4?url=",
         "subject": [
-          "download_url"
+          "result.download_url"
         ]
       }
     }
