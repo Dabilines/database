@@ -21,6 +21,13 @@
           "result.media.video_hd",
           "result.media.video_sd"
         ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/download/facebook?url=",
+        "subject": [
+          "data.hd",
+          "data.sd"
+        ]
       }
     },
     "yt": {
