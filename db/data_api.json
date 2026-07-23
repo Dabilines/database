@@ -42,6 +42,13 @@
         "subject": [
           "result.download_url"
         ]
+      },
+      "api_2": {
+        "web": "https://sylvatica.my.id/api/download/ytmp4?url=&quality=720",
+        "uri": "url=",
+        "subject": [
+          "result.downloadUrl"
+        ]
       }
     }
   }
